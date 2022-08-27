@@ -1,4 +1,4 @@
-# Buffer notes
+# Inbox buffer notes
 
 + Ps. 89:24: The Messiah would be strengthened by Jehovah's Name.
 + Ps. 89:8-9: The Psalm says only Jehovah is powerful, and uses His control over
