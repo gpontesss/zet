@@ -1,9 +1,9 @@
 ---
 id: 20220826204757053
-tags: ["sons-divinity", "image", "hebrews", "trinity"]
+tags: ["christs-divinity", "image", "hebrews", "trinity"]
 ---
 
-# Christ is the "reflection" of God's Glory
+# Christ's Divinity described in Heb. 1:3
 
 Heb. 1:3 states that Christ:
 
