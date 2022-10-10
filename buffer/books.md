@@ -7,3 +7,4 @@
 * Imposturas Intelectuais --- Alan Sokal
 * 1812: A marcha fatal de Napoleão rumo a Moscou --- Adam Zamoyski
 * O mundo até ontem --- Jared Diamond
+* Database Internals: A Deep Dive Into How Distributed Data Systems Work --- Alex Petrov
